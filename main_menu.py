@@ -100,7 +100,7 @@ class MainMenu:
                 print ("Set Grid")
                 self.points2D.setGrid()
             elif (self.menuOption == '3'):
-                print ("Algo")
+                print ("Algorithms")
             elif (self.menuOption == '4'):
                 clearScreen()
                 print ("View Points")
